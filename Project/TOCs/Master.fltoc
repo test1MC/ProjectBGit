@@ -3,5 +3,5 @@
   Version="1">
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/Topic 2.htm" />
+    Link="/Content/Topic 2.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
 </CatapultToc>
