@@ -7,7 +7,8 @@
   GlossaryTermConversion="marked"
   CentralLinkIds=""
   TargetLanguage="ar"
-  Skin="/Project/Skins/HTML5 - Tripane.flskn">
+  Skin="/Project/Skins/HTML5 - Tripane.flskn"
+  DefaultUrl="/Content/Topic 2.htm">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
