@@ -6,7 +6,8 @@
   Destinations=""
   GlossaryTermConversion="marked"
   CentralLinkIds=""
-  TargetLanguage="ar">
+  TargetLanguage="ar"
+  Skin="/Project/Skins/HTML5 - Tripane.flskn">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
